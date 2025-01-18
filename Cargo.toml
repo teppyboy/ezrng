@@ -1,0 +1,12 @@
+[package]
+name = "ezrng"
+description = "Generate random numbers in the most simple way possible"
+license = "MIT"
+homepage = "https://github.com/teppyboy/ezrng"
+repository = "https://github.com/teppyboy/ezrng"
+readme = "README.md"
+version = "0.1.0"
+edition = "2024"
+keywords = ["rand", "random", "rng"]
+
+[dependencies]
