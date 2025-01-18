@@ -25,6 +25,9 @@ pub fn uniform(a: f64, b: f64) -> f64 {
 }
 
 pub fn randint(a: u64, b: u64) -> u64 {
+    if a == 0 {
+        return get_random_hash_u64() % b;
+    }
     a + (b - a) * random_u64()
 }
 

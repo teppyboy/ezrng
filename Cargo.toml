@@ -5,7 +5,7 @@ license = "MIT"
 homepage = "https://github.com/teppyboy/ezrng"
 repository = "https://github.com/teppyboy/ezrng"
 readme = "README.md"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 keywords = ["rand", "random", "rng"]
 
